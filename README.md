@@ -7,11 +7,10 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://simpleicons.org/icons/csharp.svg" alt="php" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/dotnet.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/eclipse.png" alt="php" width="45" height="45"/>
-<img src="https://simpleicons.org/icons/eclipseide.svg" alt="php" width="45" height="45"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="php" width="45" height="45"/>
-<img src="https://simpleicons.org/icons/csharp.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="php" width="45" height="45"/>
 </p>
 <!--
 **T-Tiffanyyau/T-Tiffanyyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
