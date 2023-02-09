@@ -12,7 +12,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="bash" width="45" height="45"/> <!-- R -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="bash" width="45" height="45"/> <!-- MatLab -->
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="php" width="45" height="45"/> <!-- python -->
-<img src="https://simpleicons.org/icons/dotnet.svg" alt="bash" width="45" height="45"/> <!-- .NET -->
+<img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/10/shadow.png" alt="bash" width="45" height="45"/> <!-- .NET MAUI -->
 
 </p>
 
