@@ -9,6 +9,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/dotnet.svg" alt="bash" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/rstudio.svg" alt="php" width="45" height="45"/>
+<img src="https://simpleicons.org/icons/eclipseide.svg" alt="php" width="45" height="45"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="php" width="45" height="45"/>
+<img src="https://simpleicons.org/icons/csharp.svg" alt="php" width="45" height="45"/>
 </p>
 <!--
 **T-Tiffanyyau/T-Tiffanyyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
