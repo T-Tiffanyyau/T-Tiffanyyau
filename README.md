@@ -3,6 +3,8 @@
 * 👩 Pronouns: she / her
 * 📫 How to reach me: yautiffany0503.yt@gmail.com
 
+* 🌱 I’m currently learning to develop web browsers: 
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
