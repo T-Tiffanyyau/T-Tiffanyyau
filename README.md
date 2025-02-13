@@ -4,7 +4,7 @@
 
 I’m a **software developer** passionate about building **scalable, high-performance applications**. I specialize in **full-stack development, cloud computing, and system design**, with experience in:  
 
-- **Languages & Frameworks:** C++, Python, JavaScript (Node.js), Flutter  
+- **Languages & Frameworks:** C++, Python, JavaScript (Node.js), Flutter, Kotlin  
 - **Cloud & DevOps:** AWS, Docker, CI/CD (GitHub Actions)  
 - **Databases:** MongoDB, MySQL, Firebase  
 - **Tools & Methodologies:** Git, TDD, RESTful APIs  
@@ -23,4 +23,7 @@ I’m a **software developer** passionate about building **scalable, high-perfor
 
 ## 📫 Connect With Me!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yau-tiffany/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/T-Tiffanyyau)  
+📧 Email: yautiffany0503.yt@gmail.com  
+
+## 📄 Resume  
+💼 Available on [LinkedIn](https://www.linkedin.com/in/yau-tiffany/)  
