@@ -1,44 +1,26 @@
-## Hi there 👋
-* 👂 My name is Tiffany Yau
-* 👩 Pronouns: she / her
-* 📫 How to reach me: yautiffany0503.yt@gmail.com
+# 👋 Hi, I'm Tiffany Yau!  
 
-* 🌱 I’m currently learning to develop web browsers: https://github.com/T-Tiffanyyau/WebBrowserInternals
-* 🔭 I’m currently working on an android drawing application: https://github.com/T-Tiffanyyau/DrawingApp
+🚀 **Software Developer | Full-Stack & Cloud Enthusiast | Project Lead**  
 
+I’m a **software developer** passionate about building **scalable, high-performance applications**. I specialize in **full-stack development, cloud computing, and system design**, with experience in:  
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> <!-- visual studio -->
-<img src="https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_375/MTc0NDczMTM4OTg0NDYxOTU4/a-brief-introduction-to-c.webp" alt="php" width="45" height="45"/> <!-- C# -->
-<img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/eclipse.png" alt="php" width="45" height="45"/> <!-- Eclispe -->
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="bash" width="45" height="45"/> <!-- R -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="bash" width="45" height="45"/> <!-- MatLab -->
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="php" width="45" height="45"/> <!-- python -->
-<img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/10/shadow.png" alt="bash" width="45" height="45"/> <!-- .NET MAUI -->
+- **Languages & Frameworks:** C++, Python, JavaScript (Node.js), Flutter  
+- **Cloud & DevOps:** AWS, Docker, CI/CD (GitHub Actions)  
+- **Databases:** MongoDB, MySQL, Firebase  
+- **Tools & Methodologies:** Git, TDD, RESTful APIs  
 
-</p>
+## 🔥 What I'm Working On  
+- **[SnapChef](https://sites.google.com/gcloud.utah.edu/snapchef/home)** – A mobile recipe recommendation app powered by AI. Built using **Flutter, Node.js, MongoDB, and AWS**.  
+- **Microsoft Certified: Dynamics 365 Fundamentals (CRM)** – Expanding my expertise in **CRM systems and business applications**.  
 
-<!--
-**T-Tiffanyyau/T-Tiffanyyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education  
+🎓 **University of Utah** | B.S. in Computer Science (**Graduating May 2025**)  
 
-Here are some ideas to get you started:
+## 💡 More About Me  
+- **Leadership Experience:** Teaching Assistant, SnapChef Project Lead  
+- **Quick Learner:** Always exploring new technologies and best practices  
+- **Interests:** 🎼 Competitive clarinetist, avid musician 🎶 | 🍳 Cooking | 🏊‍♀️ Swimming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
--->
+## 📫 Connect With Me!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yau-tiffany/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/T-Tiffanyyau)  
