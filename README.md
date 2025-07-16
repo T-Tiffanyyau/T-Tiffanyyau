@@ -6,7 +6,7 @@
 ### I am a versatile Software Engineer with a passion for building impactful web and mobile applications!
 
 ## My Education :
-- University of Utah - **Bachelor of Science in Computer Science** (Aug 2020 - May 2025) GPA : 3.6+
+- University of Utah - **Bachelor of Science in Computer Science** (Aug 2020 - May 2025) GPA : 3.5+
 - **Google UX Design Process Certificate** - Issued May 2025
 
 ## Objective
@@ -72,5 +72,4 @@ Seeking a challenging Front-End Developer role where I can apply my foundational
 - Technical Communication & Mentorship
 
 ## Let's get to know each other !
-[![Linkedin Badge](https://img.shields.io/badge/-TiffanyYau-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-[![Mail Badge](https://img.shields.io/badge/-your.email@example.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Linkedin Badge](https://img.shields.io/badge/-TiffanyYau-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yau-tiffany/)
