@@ -2,61 +2,81 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi%20Im%20Tiffany%20Yau!&animation=fadeIn&type=waving&color=gradient&height=300" />
 </p>
 
-# About me
-### Aspiring Product Manager & CS Graduate | Bridging the gap between Technical Architecture and User Experience.
+<h1 align="center">Tiffany Yau</h1>
+<h3 align="center">Software Developer | Product Analyst | AWS Certified</h3>
+<p align="center">
+  <b>Bridging the gap between Technical Architecture and Business Logic.</b>
+</p>
 
-## My Education :
-- University of Utah - **Bachelor of Science in Computer Science** (Aug 2020 - May 2025) | GPA: 3.58
-- **Google UX Design Process Certificate** - Issued May 2025
-- **AWS Certified Cloud Practitioner** - Exam Scheduled: Jan 2026 (In Progress)
+<p align="center">
+  <a href="https://t-tiffanyyau.github.io/">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/yau-tiffany/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-## Objective
-Seeking a **Product Management** role where I can leverage my Computer Science background to build impactful FinTech solutions. Unlike typical graduates, I possess a unique blend of backend architecture skills (AWS) and user empathy (UX), allowing me to speak the language of both engineers and designers.
+---
 
-## Checkout my PM Portfolio !
-[https://t-tiffanyyau.github.io/](https://t-tiffanyyau.github.io/)
+## 🚀 About Me
+I believe human intelligence is too valuable to be wasted on repetitive tasks. My goal is to build efficient systems that let people focus on what truly matters.
 
-## My Technical Toolkit :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+As a **Computer Science graduate** with an **AWS Cloud Practitioner certification**, I approach software development with a **product-driven mindset**. I don't just execute code; I question the "Why" behind it to ensure every line drives business value and user efficiency.
 
+## 🛠 My Technical Toolkit
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-## Key Projects
-- **[Serverless Cloud Resume Challenge (AWS)](https://t-tiffanyyau.github.io/)**
-  * *Status: In Progress (Migrating from GitHub Pages)*
-  * Architecting a serverless visitor counter using **AWS Lambda (Python)**, **API Gateway**, and **DynamoDB**.
-  * Integrating CI/CD pipelines for automated deployment.
+## 📂 Key Projects
 
-- **[SnapChef – AI-Powered Mobile Recipe App](https://snapchefapp.wixsite.com/snapchef)**
-  * **Role: Product Lead & Developer**
-  * Led the product lifecycle from concept to launch, defining user requirements and designing wireframes in **Figma**.
-  * Developed the mobile app using **Flutter**, integrating **Claude AI** for ingredient recognition.
-  * Collaborated with backend engineers to define RESTful API specifications.
+### ☁️ [Serverless Cloud Resume Challenge (AWS)](https://t-tiffanyyau.github.io/)
+> *Migrating legacy portfolio to a modern Cloud Architecture.*
+* Architecting a serverless visitor counter using **AWS Lambda (Python)**, **API Gateway**, and **DynamoDB**.
+* Implementing **Infrastructure as Code (IaC)** concepts and CI/CD pipelines for automated deployment.
+* Focus: Cloud Security (IAM Roles) and Backend Logic.
 
-- **[Drawing Activity App (Android)](https://github.com/T-Tiffanyyau/DrawingApp)**
-  * Developed an interactive Android mobile application using **Kotlin** and **Jetpack Compose**.
-  * Integrated **Firebase Firestore** for real-time data storage and sharing of drawings.
-  * Designed an intuitive canvas UI, ensuring a seamless user experience on mobile devices.
+### 🍳 [SnapChef – AI-Powered Mobile Recipe App](https://snapchefapp.wixsite.com/snapchef)
+> *Role: Product Lead & Developer*
+* Led the product lifecycle from concept to launch, defining user requirements and designing wireframes in **Figma**.
+* Developed the mobile app using **Flutter**, integrating **Claude AI** for real-time ingredient recognition.
+* Collaborated with backend engineers to define **RESTful API** specifications, bridging the gap between mobile frontend and Node.js backend.
 
-- **[Web Browser Project](https://github.com/T-Tiffanyyau/WebBrowserInternals)**
-  * Built a fundamental web browser from scratch using **Python** to understand the core mechanics of HTTP, HTML rendering, and JavaScript execution.
-  * (This project demonstrates my ability to understand deep technical concepts, essential for communicating with backend teams).
+### 🎨 [Drawing Activity App (Android)](https://github.com/T-Tiffanyyau/DrawingApp)
+* Developed an interactive Android mobile application using **Kotlin** and **Jetpack Compose**.
+* Integrated **Firebase Firestore** for real-time data storage, enabling users to share drawings instantly.
+* Designed an intuitive canvas UI, optimizing touch responsiveness for mobile devices.
 
-## Skills & Competencies
-- **Product:** Requirement Analysis, User Journey Mapping, Agile/Scrum, Figma, Wireframing.
-- **Development:** Full-Stack Software Development, REST API Design, Mobile App (Flutter).
-- **Cloud & Data:** AWS (Lambda, S3, DynamoDB), SQL, NoSQL.
-- **Soft Skills:** Bridging Engineering & Design, Technical Communication, Problem Solving.
+### 🌐 [Web Browser Engine](https://github.com/T-Tiffanyyau/WebBrowserInternals)
+* Built a fundamental web browser from scratch using **Python** to reverse-engineer the core mechanics of HTTP, HTML rendering, and JavaScript execution.
+* *Demonstrates deep understanding of network protocols and DOM manipulation logic.*
 
-## Let's Connect !
-[![Linkedin Badge](https://img.shields.io/badge/-TiffanyYau-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yau-tiffany/)
+---
+
+## 🎓 Education & Certifications
+* **AWS Certified Cloud Practitioner** | *Issued Jan 2026*
+* **University of Utah** | B.S. in Computer Science | *GPA: 3.58*
+* **Google UX Course: Start the UX Design Process** | *Issued May 2025*
+
+## 💡 Skills & Competencies
+* **Product Strategy:** Requirement Analysis, User Journey Mapping, Agile/Scrum.
+* **Core Development:** Python (Automation), JavaScript, Mobile Development (Flutter/Kotlin).
+* **Cloud Infrastructure:** AWS (Lambda, S3, DynamoDB, API Gateway), Serverless Architecture.
+* **The "Glue":** Bridging Engineering & Design, Technical Translation, Stakeholder Communication.
+
+---
+<p align="center">
+  <i>Let's build something efficient together.</i>
+</p>
