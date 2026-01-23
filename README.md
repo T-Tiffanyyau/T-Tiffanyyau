@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Tiffany Yau</h1>
-<h3 align="center">Software Developer | Product Analyst | AWS Certified</h3>
+<h3 align="center">Software Engineer | Product-Minded | AWS Certified</h3>
 <p align="center">
   <b>Bridging the gap between Technical Architecture and Business Logic.</b>
 </p>
