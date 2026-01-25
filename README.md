@@ -5,7 +5,7 @@
 <h1 align="center">Tiffany Yau</h1>
 <h3 align="center">Software Engineer | Product-Minded | AWS Certified</h3>
 <p align="center">
-  <b>Bridging the gap between Technical Architecture and Business Logic.</b>
+  <b>I'm Tiffany. I turn Data into Diagrams, and Diagrams into Code. I build tools that automate boring workflows and turn complex data into helpful apps.</b>
 </p>
 
 <p align="center">
@@ -20,9 +20,7 @@
 ---
 
 ## 🚀 About Me
-I believe human intelligence is too valuable to be wasted on repetitive tasks. My goal is to build efficient systems that let people focus on what truly matters.
-
-As a **Computer Science graduate** with an **AWS Cloud Practitioner certification**, I approach software development with a **product-driven mindset**. I don't just execute code; I question the "Why" behind it to ensure every line drives business value and user efficiency.
+During my internships, I noticed a pattern: Engineers often build complex features that don't solve the actual problem. I saw how abstract code disconnected from physical realities caused operational bottlenecks. I became a Product-Minded Software Engineer. I don't just write code; I focus on the workflow. Whether it's automating R&D pattern translation or building Serverless architectures, I build tools that actually improve quality of life for the user. I specialize in AWS Serverless, Python, and Flutter, turning complex requirements into clean, automated systems.
 
 ## 🛠 My Technical Toolkit
 <p align="left">
